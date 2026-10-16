@@ -738,6 +738,7 @@ html{
     .about{
         flex-direction: column;
         gap: 25px;
+        align-items: center;
     }
     .about .about-img{
         width: 90%;
